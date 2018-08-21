@@ -1,0 +1,8 @@
+__label__合作	0
+__label__其他	1
+__label__人员变动	2
+__label__投/融资	3
+__label__发布产品	4
+__label__发布消息	5
+__label__非事件	6
+__label__上市	7
